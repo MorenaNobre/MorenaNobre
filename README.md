@@ -17,7 +17,3 @@ I am a student taking advantage of every opportunity that comes to acquire new k
 - 😍 Love coding, cats, coffee and drawing!
 <br><br>
 <hr>
-
-<h3 align="center">
-    <img alt="mayTheCodeBeWithYou" src="mayCode.png" width="95px" />
-</h3>
